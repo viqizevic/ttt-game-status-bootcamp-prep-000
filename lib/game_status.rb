@@ -33,3 +33,4 @@ end
 def full?(board)
   board.all? { |e| e == "X" || e == "O" }
 end
+
